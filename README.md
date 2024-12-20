@@ -1,11 +1,11 @@
 # 3DRoom
 
-_**Projeto da disciplina de Computação Gráfica do curso de Ciência da Computação do IFSP-SBV.
-  - Desenvolvido por: Amanda Moreira, Giovana Naiara e João Vitor Maciel.
-  - Quarto 3D com avatar e pet, desenvolvido com three.js.
-  - No cenário é possível mover o avatar com setas do teclado.
-  - Além disso é possível orbitar a câmera em torno de um alvo com auxílio do mouse.
-**_
+**Projeto da disciplina de Computação Gráfica do curso de Ciência da Computação do IFSP-SBV.**
+    - Desenvolvido por: Amanda Moreira, Giovana Naiara e João Vitor Maciel.
+    - Quarto 3D com avatar e pet, desenvolvido com three.js.
+    - No cenário é possível mover o avatar com setas do teclado.
+    - Além disso é possível orbitar a câmera em torno de um alvo com auxílio do mouse.
+
 
 - **Instalação**:
     - Baixe a pasta compactada e a descompacte após download;
