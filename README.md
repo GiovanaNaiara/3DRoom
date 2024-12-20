@@ -5,7 +5,10 @@
         _Quarto 3D com avatar e pet, desenvolvido com three.js._
         No cenário é possível mover o avatar com setas do teclado.
         Além disso é possível orbitar a câmera em torno de um alvo com auxílio do mouse.
- 
+
+
+**_Você pode ver uma demonstração a partir do link: https://youtu.be/QYgMJEr74Ik?feature=shared_**
+
 
 - **Instalação**:
     - Baixe a pasta compactada e a descompacte após download;
