@@ -1,0 +1,17 @@
+{
+  "name": "3droom",
+  "version": "1.0.0",
+  "description": "Quarto 3D com avatar e pet, desenvolvido com three.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.171.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.4"
+  }
+}
