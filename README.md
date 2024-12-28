@@ -19,7 +19,7 @@
               2. npx vite
       
     - Ctrl + click: acessa a página;
-    - Navegando na página, você mode clicar e arrastrar o mouse para mudar a visualização da cena;
+    - Navegando na página, você pode clicar e arrastrar o mouse para mudar a visualização da cena;
     - Ao pressionar as setas do teclado, você pode fazer com que o avatar se movimente.
 
 - **Referências - Fontes das texturas e modelos utilizados**:
